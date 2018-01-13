@@ -2,6 +2,6 @@ name: Hank Quinlan, Horrible Cop
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-merlot
 title: pat25bk.github.io
 description: [A short description of your site's purpose]
