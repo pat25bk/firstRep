@@ -3,5 +3,5 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
 theme: jekyll-theme-midnight
-title: [The title of your site]
+title: pat25bk.github.io
 description: [A short description of your site's purpose]
