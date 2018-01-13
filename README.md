@@ -23,3 +23,4 @@ To use the Midnight theme:
     ```ruby
     gem "github-pages", group: :jekyll_plugins
     ```
+### Update theme Cayman
